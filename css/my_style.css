@@ -1,0 +1,22 @@
+/*
+======= Body ======*/
+
+body {
+  padding-top: 50px;
+}
+
+/*
+======= Fonts, Text ======*/
+
+.title, p, a {
+  font-family: Roboto, sans-serif;
+}
+
+.ident {
+  background-color: tomato;
+
+}
+
+#project-list {
+  list-style-type: none;
+}
